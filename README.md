@@ -1,6 +1,7 @@
 # Vegetable-classification-and-recognition
 Vegetable classification and recognition with VGG16 and ResNet50
 
+![dataset-cover (1)](https://github.com/Arianbanayan/Vegetable-classification-and-recognition/assets/72501050/a439ed38-6df9-4975-924d-d15181ca1ff9)
 
 
 
